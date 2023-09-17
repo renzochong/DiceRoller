@@ -1,6 +1,7 @@
 /*
 * Renzo P. Chong Flores
 * COP3667.M01_MobileApp Fall 2023
+* Assignment 2
 * Dice Roller App
 * */
 
