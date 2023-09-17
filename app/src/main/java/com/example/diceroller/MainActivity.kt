@@ -1,3 +1,9 @@
+/*
+* Renzo P. Chong Flores
+* COP3667.M01_MobileApp Fall 2023
+* Dice Roller App
+* */
+
 package com.example.diceroller
 
 import android.os.Bundle
